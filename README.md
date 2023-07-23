@@ -1,9 +1,10 @@
 # ra
 termux-setup-storage
+pkg update
+
 
 pkg upgrade
 
-pkg update
 
 pkg install python
 
